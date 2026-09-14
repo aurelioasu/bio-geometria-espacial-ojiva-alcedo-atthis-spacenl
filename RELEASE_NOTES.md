@@ -1,5 +1,10 @@
 # Notas de version
 
+## v1.1.3 - 2026-09-14
+
+- Recompone la portada con la jerarquía visual de una tarjeta técnica: bloque de inspiración STL–pico a la izquierda, título y ficha de proyecto a la derecha.
+- Mantiene al martín pescador en vuelo y la ojiva de base lisa, sin soportes temporales de impresión.
+
 ## v1.1.2 - 2026-09-14
 
 - Mejora la composición de portada: la ojiva derivada del STL y el pico del martín pescador en vuelo están alineados en paralelo para hacer visible la referencia biomimética.

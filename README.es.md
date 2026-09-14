@@ -10,7 +10,7 @@
   <a href="README.es.md"><img alt="Español" src="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-007C91?style=for-the-badge"></a>
 </p>
 
-![Ojiva biomimetica Alcedo atthis naranja basada en el STL publicado, con martín pescador en vuelo](assets/readme/ojiva-alcedo-hero-v2.png)
+![Portada del proyecto de ojiva biomimética Alcedo atthis, basada en el STL publicado y un martín pescador en vuelo](assets/readme/ojiva-alcedo-cover-v3.png)
 
 Proyecto de hardware abierto de SpaceNL para una ojiva biomimetica de coheteria experimental, inspirada en la morfologia del pico del martin pescador comun (*Alcedo atthis*).
 
