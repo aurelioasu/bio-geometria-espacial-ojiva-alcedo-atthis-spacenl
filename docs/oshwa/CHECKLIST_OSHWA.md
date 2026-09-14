@@ -16,7 +16,8 @@
 - [ ] Confirmacion del titular de derechos y de que puede liberar CAD, STL, texto e imagenes.
 - [ ] Resolucion de la discrepancia de longitud 134.5 mm frente a 200 mm del STL.
 - [ ] Confirmacion de que no faltan archivos auxiliares bajo control del titular (ensamble, dibujos, configuraciones de impresion o estudios de Fusion 360).
-- [ ] URL publica definitiva del repositorio y release etiquetado v1.0.
+- [x] URL publica definitiva: `https://github.com/aurelioasu/bio-geometria-espacial-ojiva-alcedo-atthis-spacenl`.
+- [x] Revision inmutable publicada: etiqueta Git `v1.0.0`.
 - [ ] Datos de la persona/entidad certificante, correo de contacto y pais para el formulario.
 - [ ] Revision de marca: no incluir logotipo OSHWA antes del UID.
 - [ ] Envio de la solicitud y aceptacion del acuerdo de licencia de marca OSHWA por una persona autorizada.
@@ -29,7 +30,7 @@
 | Version | 1.0 |
 | Tipo | Componente aeroespacial experimental impreso en 3D |
 | Categoria sugerida | Aerospace / 3D printing, segun opciones vigentes del formulario |
-| Sitio de documentacion | URL publica del repositorio, pendiente de creacion |
+| Sitio de documentacion | https://github.com/aurelioasu/bio-geometria-espacial-ojiva-alcedo-atthis-spacenl |
 | Hardware | CERN-OHL-W-2.0 |
 | Software | No aplica: no se libera firmware ni software de operacion |
 | Documentacion | CC-BY-SA-4.0 |
