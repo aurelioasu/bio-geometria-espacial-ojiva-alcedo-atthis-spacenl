@@ -1,5 +1,11 @@
 # Notas de version
 
+## v1.1.0 - 2026-09-14
+
+- Anade portada e icono originales para el repositorio.
+- Anade `README.es.md` y botones visibles para alternar entre ingles y espanol.
+- Reestructura el README en ingles como punto de entrada internacional sin modificar el CAD ni la evidencia tecnica.
+
 ## v1.0.1 - 2026-09-14
 
 - Anade un indice de licencias en la raiz para hacer visible la asignacion dual de CERN-OHL-W-2.0 y CC-BY-SA-4.0.
