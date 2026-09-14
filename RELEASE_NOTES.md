@@ -1,5 +1,9 @@
 # Notas de version
 
+## v1.1.6 - 2026-09-14
+
+- Actualiza la imagen de portada para que la ojiva completa y el pico del martín pescador se muestren grandes, paralelos y legibles.
+
 ## v1.1.5 - 2026-09-14
 
 - Añade al final de ambos README la sección de equipo con autoras de la investigación y asesor.
