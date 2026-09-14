@@ -54,10 +54,19 @@ El alcance por carpeta y la atribucion estan resumidos en [LICENSE.md](LICENSE.m
 
 Al reutilizar, conserve los avisos de atribucion y licencias. Revise [Licencias y atribucion](docs/oshwa/LICENSES_Y_ATRIBUCION.md) antes de publicar una derivacion.
 
-## Autoria
-
-Investigacion original: Suri Paola Frausto Galindo y America Aidee Segovia Martinez. Asesor reportado: Fernando Alonso Villalobos. Repositorio y documentacion abierta: SpaceNL.
-
 ## Contribuir
 
 Las mejoras deben incluir el archivo fuente editable, un cambio de version, instrucciones de reproduccion y resultados verificables. Consulte [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Equipo
+
+Investigación original desarrollada por:
+
+- Suri Paola Frausto Galindo
+- America Aidee Segovia Martinez
+
+Asesor:
+
+- Fernando Alonso Villalobos
+
+Repositorio y documentación abierta: SpaceNL.

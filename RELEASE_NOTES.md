@@ -1,5 +1,9 @@
 # Notas de version
 
+## v1.1.5 - 2026-09-14
+
+- Añade al final de ambos README la sección de equipo con autoras de la investigación y asesor.
+
 ## v1.1.4 - 2026-09-14
 
 - Elimina el icono y el encabezado redundantes que aparecían antes de la portada; se conservan los controles de idioma.
