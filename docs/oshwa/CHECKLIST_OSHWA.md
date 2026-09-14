@@ -17,7 +17,7 @@
 - [ ] Resolucion de la discrepancia de longitud 134.5 mm frente a 200 mm del STL.
 - [ ] Confirmacion de que no faltan archivos auxiliares bajo control del titular (ensamble, dibujos, configuraciones de impresion o estudios de Fusion 360).
 - [x] URL publica definitiva: `https://github.com/aurelioasu/bio-geometria-espacial-ojiva-alcedo-atthis-spacenl`.
-- [x] Revision inmutable publicada: etiqueta Git `v1.1.1`.
+- [x] Revision inmutable publicada: etiqueta Git `v1.1.2`.
 - [ ] Datos de la persona/entidad certificante, correo de contacto y pais para el formulario.
 - [ ] Revision de marca: no incluir logotipo OSHWA antes del UID.
 - [ ] Envio de la solicitud y aceptacion del acuerdo de licencia de marca OSHWA por una persona autorizada.

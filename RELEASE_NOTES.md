@@ -1,5 +1,10 @@
 # Notas de version
 
+## v1.1.2 - 2026-09-14
+
+- Mejora la composición de portada: la ojiva derivada del STL y el pico del martín pescador en vuelo están alineados en paralelo para hacer visible la referencia biomimética.
+- Conserva exclusivamente la base cilíndrica lisa de la geometría publicada, sin soportes ni elementos temporales de impresión.
+
 ## v1.1.1 - 2026-09-14
 
 - Sustituye la portada del README por una composición naranja y negra basada en la geometría del STL publicado.
