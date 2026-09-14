@@ -1,0 +1,8 @@
+# Salidas locales de CAD, laminadores y analisis
+*.f3z
+*.3mf
+*.gcode
+*.bak
+*.tmp
+__pycache__/
+.DS_Store
