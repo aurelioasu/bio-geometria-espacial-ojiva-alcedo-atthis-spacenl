@@ -45,6 +45,8 @@ Esta pieza es un prototipo de investigacion. No es un componente certificado par
 - **Documentacion, fotografias y graficos originales de este repositorio:** [CC-BY-SA-4.0](LICENSES_CC-BY-SA-4.0.txt).
 - **Marca:** los nombres y logotipos de SpaceNL no se conceden por estas licencias. No hay logotipo ni marca de certificacion OSHWA en este repositorio.
 
+El alcance por carpeta y la atribucion estan resumidos en [LICENSE.md](LICENSE.md).
+
 Al reutilizar, conserve los avisos de atribucion y licencias. Revise [Licencias y atribucion](docs/oshwa/LICENSES_Y_ATRIBUCION.md) antes de publicar una derivacion.
 
 ## Autoria

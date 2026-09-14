@@ -1,5 +1,10 @@
 # Notas de version
 
+## v1.0.1 - 2026-09-14
+
+- Anade un indice de licencias en la raiz para hacer visible la asignacion dual de CERN-OHL-W-2.0 y CC-BY-SA-4.0.
+- Actualiza el expediente OSHWA para que apunte a la revision inmutable mas reciente.
+
 ## v1.0.0 - 2026-09-14
 
 Primera liberacion publica del diseno de ojiva biomimetica Alcedo atthis.
