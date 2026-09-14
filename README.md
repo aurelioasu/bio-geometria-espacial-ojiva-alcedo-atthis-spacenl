@@ -10,7 +10,7 @@
   <a href="README.es.md"><img alt="Español" src="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-007C91?style=for-the-badge"></a>
 </p>
 
-![Alcedo atthis biomimetic nose cone hero](assets/readme/ojiva-alcedo-hero.png)
+![Orange Alcedo atthis biomimetic nose cone based on the released STL, with a kingfisher in flight](assets/readme/ojiva-alcedo-hero-v2.png)
 
 Open hardware research project by SpaceNL for a biomimetic experimental-rocketry nose cone inspired by the streamlined beak morphology of the common kingfisher (*Alcedo atthis*).
 
@@ -33,7 +33,7 @@ Open hardware research project by SpaceNL for a biomimetic experimental-rocketry
 - Manufacturing mesh: binary STL with 12,948 triangles.
 - Measured STL envelope: approximately 50.47 x 52.10 x 200.00 mm.
 - Documented prototype material: PLA, using 1.75 mm filament.
-- Published, immutable Git revision: [`v1.1.0`](https://github.com/aurelioasu/bio-geometria-espacial-ojiva-alcedo-atthis-spacenl/tree/v1.1.0).
+- Published, immutable Git revision: [`v1.1.1`](https://github.com/aurelioasu/bio-geometria-espacial-ojiva-alcedo-atthis-spacenl/tree/v1.1.1).
 
 > **Configuration control.** The source report describes a 134.5 mm-long prototype with a 50.2 mm base, whereas the published STL has a 200 mm envelope length. This is unresolved. Confirm the intended CAD revision and units in Fusion 360 or the slicer before fabrication, testing, or certification.
 

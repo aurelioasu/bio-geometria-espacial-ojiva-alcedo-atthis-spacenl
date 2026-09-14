@@ -1,5 +1,10 @@
 # Notas de version
 
+## v1.1.1 - 2026-09-14
+
+- Sustituye la portada del README por una composición naranja y negra basada en la geometría del STL publicado.
+- Muestra la ojiva completa, limpia y sin los soportes temporales de impresión; incorpora un martín pescador (*Alcedo atthis*) en vuelo como referencia biológica.
+
 ## v1.1.0 - 2026-09-14
 
 - Anade portada e icono originales para el repositorio.
