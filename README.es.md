@@ -1,11 +1,4 @@
 <p align="center">
-  <img src="assets/readme/ojiva-alcedo-icon.png" alt="Icono del proyecto Ojiva Alcedo atthis" width="132">
-</p>
-
-<h1 align="center">Bio-geometria espacial</h1>
-<p align="center"><strong>Diseno y fabricacion de ojiva Alcedo atthis</strong></p>
-
-<p align="center">
   <a href="README.md"><img alt="English" src="https://img.shields.io/badge/Language-English-0B1F3A?style=for-the-badge"></a>
   <a href="README.es.md"><img alt="Español" src="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-007C91?style=for-the-badge"></a>
 </p>

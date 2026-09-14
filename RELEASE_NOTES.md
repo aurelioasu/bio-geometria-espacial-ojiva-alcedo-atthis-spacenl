@@ -1,5 +1,9 @@
 # Notas de version
 
+## v1.1.4 - 2026-09-14
+
+- Elimina el icono y el encabezado redundantes que aparecían antes de la portada; se conservan los controles de idioma.
+
 ## v1.1.3 - 2026-09-14
 
 - Recompone la portada con la jerarquía visual de una tarjeta técnica: bloque de inspiración STL–pico a la izquierda, título y ficha de proyecto a la derecha.

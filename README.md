@@ -1,11 +1,4 @@
 <p align="center">
-  <img src="assets/readme/ojiva-alcedo-icon.png" alt="Alcedo Atthis nose cone project icon" width="132">
-</p>
-
-<h1 align="center">Bio-geometria espacial</h1>
-<p align="center"><strong>Design and fabrication of the Alcedo atthis nose cone</strong></p>
-
-<p align="center">
   <a href="README.md"><img alt="English" src="https://img.shields.io/badge/Language-English-0B1F3A?style=for-the-badge"></a>
   <a href="README.es.md"><img alt="Español" src="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-007C91?style=for-the-badge"></a>
 </p>
@@ -33,7 +26,7 @@ Open hardware research project by SpaceNL for a biomimetic experimental-rocketry
 - Manufacturing mesh: binary STL with 12,948 triangles.
 - Measured STL envelope: approximately 50.47 x 52.10 x 200.00 mm.
 - Documented prototype material: PLA, using 1.75 mm filament.
-- Published, immutable Git revision: [`v1.1.3`](https://github.com/aurelioasu/bio-geometria-espacial-ojiva-alcedo-atthis-spacenl/tree/v1.1.3).
+- Published, immutable Git revision: [`v1.1.4`](https://github.com/aurelioasu/bio-geometria-espacial-ojiva-alcedo-atthis-spacenl/tree/v1.1.4).
 
 > **Configuration control.** The source report describes a 134.5 mm-long prototype with a 50.2 mm base, whereas the published STL has a 200 mm envelope length. This is unresolved. Confirm the intended CAD revision and units in Fusion 360 or the slicer before fabrication, testing, or certification.
 
